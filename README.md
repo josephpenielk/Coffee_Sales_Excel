@@ -42,7 +42,7 @@ The dashboard includes:
 
 ### How to Test:
 
-1. **Download the Excel File:** Click on (`Coffee_Sales_Analysis.xlsx`) and then click "Download".
+1. **Download the Excel File:** Click on (`coffeeOrdersData.xlsx`) and then click "Download".
 
 2. **Open the Excel File:** Open it using Microsoft Excel after downloading.
 
