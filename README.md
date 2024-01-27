@@ -1,5 +1,8 @@
 # Coffee Sales Data Analysis Project
 
+<img width="608" alt="Dashboard" src="https://github.com/josephpenielk/Coffee_Sales_Excel/assets/65491428/e470be2d-1b2f-4506-bb51-0cf3b85f8843">
+
+
 ## Overview
 
 Welcome to the Coffee Sales Data Analysis project! This project shows how I used Excel to analyze coffee sales. I used different Excel functions like XLOOKUP, INDEX, MATCH, and IF to understand the data better. The main aim is to create a dashboard that gives useful insights into coffee sales.
